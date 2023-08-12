@@ -3,11 +3,12 @@
 ## Introduction 
 
 ## Code
-The code for this project is fully embodied in the **xxxx.ipynb** Jupyter Notebook file
+The code for this project is fully embodied in the **finding_donors.ipynb** Jupyter Notebook file
 in this Github repository.
 
 ## Datasets
-
+	The **census.csv** dataset was provided by Udacity and used for this project and is also in this Github.
+ 
 ## Acknowledgments and Sources of Code and Data:
 
 	Udacity project documents 
@@ -26,6 +27,7 @@ in this Github repository.
     Number of individuals with income >$50,000
     Number of individuals with income <=$50,000
     Percentage of individuals with income > $50,000
+>>### done according to specification
 
 ## Rubric item: Preparing the Data
 > ### Data Preprocessing
@@ -79,9 +81,11 @@ in this Github repository.
 The jupyter notebook file can be operated with the standard Jupyter Notebook software.
 As in all projects, it is recommended to set up an environment with the required packages. These include:
 
- 	pandas 2.0.1
-	numpy 1.24.3
-	matplotlib 3.7.1
+	Python
+	NumPy
+	pandas
+	scikit-learn (v0.17)
+	Matplotlib
  
  ### NOTE: a requirements.txt file can be found in this Github that contains all the packages used in this project
  
