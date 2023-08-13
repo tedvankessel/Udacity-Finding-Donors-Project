@@ -3,8 +3,16 @@
 ## Introduction 
 
 ## Code
-The code for this project is fully embodied in the **finding_donors.ipynb** Jupyter Notebook file
-in this Github repository.
+The code for this project is fully embodied in the **finding_donors.ipynb** Jupyter Notebook file in this Github repository.
+
+### The python version used in this code is:
+
+	Python version
+	3.7.6 (default, Jan  8 2020, 20:23:39) [MSC v.1916 64 bit (AMD64)]
+	Version info.
+	sys.version_info(major=3, minor=7, micro=6, releaselevel='final', serial=0)
+
+>See below for more details on environment etc. 
 
 ## Datasets
 	The **census.csv** dataset was provided by Udacity and used for this project and is also in this Github.
