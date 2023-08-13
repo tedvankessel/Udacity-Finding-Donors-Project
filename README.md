@@ -1,6 +1,7 @@
 # Udacity-Finding-Donors-Project
 
 ## Introduction 
+
 This project is a supervised machine learning exercise centered around a hypothetical company named CharityML. We are given a dataset "census.txt" with donor data and asked to create a machine learning pipline to predict doners making more than $50K/year.
 
 ### From the course documentaion:
