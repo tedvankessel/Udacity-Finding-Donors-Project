@@ -17,7 +17,9 @@ in this Github repository.
 	Udacity GPT
 	Google
  
- >### References: 
+ >### References:
+	https://github.com/rahulpatraiitkgp/Finding-Donors-For-CharityML/blob/master/finding_donors.ipynb
+ 	https://github.com/lmego/finding_donors/blob/master/finding_donors.ipynb
 
 ## Rubric item: Exploring the Data
 ### Data Exploration
