@@ -91,13 +91,13 @@ The code for this project is fully embodied in the **finding_donors.ipynb** Jupy
 The jupyter notebook file can be operated with the standard Jupyter Notebook software.
 As in all projects, it is recommended to set up an environment with the required packages. These include:
 
-	Python
-	NumPy
-	pandas
-	scikit-learn (v0.17)
-	Matplotlib
+	ipython=8.12.2=pypi_0
+	numpy=1.24.3=py38h1d91fd2_0
+	pandas=2.0.1=py38hf08cf0d_0
+	matplotlib=3.7.1=pypi_0
+	scikit-learn=1.3.0=py38h763eb3e_0
  
- ### NOTE: a requirements.txt file can be found in this Github that contains all the packages used in this project
+ ### NOTE: a **requirements.txt file** can be found in this Github that contains all the packages used in this project environment.
  
  ## License
 This project is licensed under the MIT License  License - see the LICENSE.md file for details
